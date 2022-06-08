@@ -1,5 +1,5 @@
 ## Math-Magicians
-This is a React project, Math-magicians application. It provides the React component that will hold the core functionality: a calculator.
+This is a React project, Math-magicians application. It provides the React component that will hold the core functionality: a calculator. Logic is added.
 
 
 ![screenshot](./images/Screenshot.png)
