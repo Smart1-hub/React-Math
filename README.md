@@ -1,8 +1,8 @@
-## To-Do-List Project
-This project is a JavaScript project for the Leaderboard list app, using webpack and ES6 features.
+## Math-Magicians
+This is a React project, Math-magicians application. It provides the React component that will hold the core functionality: a calculator.
 
 
-![screenshot](app_screenshot.png)
+![screenshot](./images/Screenshot.png)
 
 
 ## Built With
@@ -11,19 +11,16 @@ This project is a JavaScript project for the Leaderboard list app, using webpack
 - HTML
 - CSS
 - Github
-
-## Technology Used
-
-- Webpack
+- React
 
 ## Live Demo
 
-[Live Demo](https://smart1-hub.github.io/PR-Leaderboard/dist)
+[Live Demo](coming soon)
 
 ### Setup
 ~~~ 
-git clone git@github.com:smart1-hub/PR-Leaderboard.git
-cd PR-Leaderboard
+git clone git@github.com:smart1-hub/React-Math.git
+cd React-Math
 ~~~
 - Open a index.html file with code editor of your choice and/or a browser.
 ~~~
@@ -41,7 +38,6 @@ npm run build
 ```
 npm start
 ```
-- You can also check out this API documentation [link](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 ## Environment Prerequisites
 
@@ -63,7 +59,6 @@ Code editor: Vscode or any other code editor
 ## Acknowledgement
 
 - Microvers Org.
-- All whose codes have been built on
 
 ## Contributing
 
