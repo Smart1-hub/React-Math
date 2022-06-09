@@ -8,14 +8,13 @@ This is a React project, Math-magicians application. It provides the React compo
 ## Built With
 
 - JS
-- HTML
 - CSS
 - Github
 - React
 
 ## Live Demo
 
-[Live Demo](coming soon)
+[Live Demo](https://smart1-hub.github.io/React-Math/public)
 
 ### Setup
 ~~~ 
