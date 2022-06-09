@@ -14,7 +14,7 @@ This is a React project, Math-magicians application. It provides the React compo
 
 ## Live Demo
 
-[Live Demo](https://smart1-hub.github.io/React-Math/public)
+[Live Demo](https://smart1-hub.github.io/React-Math/)
 
 ### Setup
 ~~~ 
