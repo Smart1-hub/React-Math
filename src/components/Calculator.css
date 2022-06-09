@@ -6,7 +6,7 @@ body {
 
 .container {
   position: absolute;
-  width: 80%;
+  width: 60%;
   margin: 40px;
 }
 
@@ -42,5 +42,5 @@ body {
 }
 
 .operators {
-  background-color: rgb(231, 92, 37);
+  background-color: orange;
 }
