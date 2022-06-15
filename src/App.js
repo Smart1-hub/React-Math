@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import Home from './pages/Home';
-import Calculators from './pages/Calculators,';
+import Calculators from './pages/Calculators';
 import Quote from './pages/Quote';
 
 class App extends React.Component {
